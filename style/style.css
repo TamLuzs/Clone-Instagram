@@ -1,0 +1,254 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+body{
+    widows: 100%;
+    min-height: 100vh;
+    background-color: #f3f3f3;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.instagram-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 60%;
+    height: 100vh;
+}
+
+.instagram-phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.instagram-continue{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+    margin-top: 5rem;
+}
+
+.group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid #d3d3d3; 
+    margin-top: 10px;
+}
+
+.group:nth-child(1){
+    min-height: 19rem;   
+}
+
+.instagram-phone img{
+    width: 50em;
+}
+
+.instagram-logo{
+    height: 3rem;
+}
+
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile-photo img{
+    height: 6rem;
+}
+
+.instagram-login{
+    background-color: #0095f6;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instagram-logout{
+    font-weight: bold;
+    color: #0095f6;
+    margin-top: 1rem;
+}
+
+.not-account{
+    color: #a0a0a0;
+}
+
+.link-blue{
+    font-weight: bold;
+    color: #0095f6;
+}
+
+.get-the-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+}
+
+.get-app{
+    color: #262626;
+}
+
+.download{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items:center;
+    padding: 1rem;
+}
+
+.app-download{
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+}
+
+
+/****************
+Tela Conecta-se
+****************/
+.instagram-facebook{
+    color: #385185;
+    font-weight: bold;
+}
+
+.instagram-password{
+    color: #385185;
+    font-size: 13px;
+}
+
+.instagram-form-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.instagram-input{
+    background-color: #f3f3f3;
+    color: #a0a0a0;
+    width: 285px;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.instagram-button{
+    margin-top: 10px;
+    background-color: #0095f6;
+    border: none;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    padding: 8px;
+    border-radius: 4px;
+    width: 285px;
+}
+
+.word-ou{
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #a0a0a0;
+}
+
+.risk-left{
+    width: 110px;
+    position: relative;
+    top: -8px;
+    right: 75px;
+    color:#d3d3d3;
+}
+
+.risk-right{
+    width: 110px;
+    position: relative;
+    top: -10px;
+    left: 75px;
+    color:  #d3d3d3;
+}
+
+/****************
+Tela Cadastre-se
+****************/
+.button-cadastre{
+    opacity: 0.5;
+}
+
+.phrase-term{
+    color: #a0a0a0;
+    width: 285px;
+    text-align: center;
+    padding: 4px;
+    font-size: 12px;
+    margin-top: 1rem;
+}
+
+.word-bold{
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.phrase{
+    width: 285px;
+    text-align: center;
+    font-size: 15px;
+    padding: 4px;
+    font-weight: bold;
+    color: #a0a0a0;
+}
+
+/****************
+Layout Responsivo
+****************/
+
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+    
+    .group {
+        border: 1px solid transparent;
+    }
+}
