@@ -7,6 +7,12 @@ Esse repositório é referente as implementações de melhorias que fiz sobre o 
 ## Informação do Projeto
 O projeto reúne a tela de conecte-se, cadastre-se e a home conectada em usuário especifico.
 
+<b> Implementação </b>
+- [x] Seção Home - Reconecta-se com username
+- [x] Seção Conecte-se
+- [x] Seção Cadastre-se
+- [x] Seção Esqueceu a Senha <i> (Em Produção) </i>
+
 ### Layout da estrutura
 <i> (Em Produção) </i>
 
