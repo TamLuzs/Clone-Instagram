@@ -1,5 +1,8 @@
 # Clone da Interface do Instagram
-![social](https://user-images.githubusercontent.com/48417347/101220278-2af10480-3664-11eb-83b5-57cefbbb43fe.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48417347/101220278-2af10480-3664-11eb-83b5-57cefbbb43fe.png"/>
+</p> 
 
 ## Introdução
 Esse repositório é referente as implementações de melhorias que fiz sobre o projeto de recriação da página inicial do instagram, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
@@ -14,8 +17,19 @@ O projeto original reúne uma tela simplificada quando o usúario deseja retorna
 - [x] Seção Cadastre-se
 - [x] Seção Esqueceu a Senha 
 
-### Layout da estrutura
-<i> (Em Produção) </i>
+### Layout
+<p align="center">
+  <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Home.PNG"/>
+</p> 
+<p align="center">
+  <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Login.PNG"/>
+</p> 
+<p align="center">
+  <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Redefinir%20Senha.PNG"/>
+</p> 
+<p align="center">
+  <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Cadastre-se.PNG"/>
+</p> 
 
 ## Ferramentas/Tecnologias Utilizadas:
 - VsCode;
