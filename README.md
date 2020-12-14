@@ -5,13 +5,14 @@
 Esse repositório é referente as implementações de melhorias que fiz sobre o projeto de recriação da página inicial do instagram, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
 
 ## Informação do Projeto
-O projeto reúne a tela de conecte-se, cadastre-se e a home conectada em usuário especifico.
+O projeto original reúne uma tela simplificada quando o usúario deseja retornar conexão com username anterior no site.
 
-<b> Implementação </b>
-- [x] Seção Home - Reconecta-se com username
+- Seção Home: Reconecta-se com username
+
+<b> Implementação Futura </b>
 - [x] Seção Conecte-se
 - [x] Seção Cadastre-se
-- [x] Seção Esqueceu a Senha <i> (Em Produção) </i>
+- [x] Seção Esqueceu a Senha 
 
 ### Layout da estrutura
 <i> (Em Produção) </i>
