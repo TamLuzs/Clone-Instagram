@@ -7,7 +7,7 @@
 ## Introdução
 Esse repositório é referente as implementações e melhorias que fiz sobre o projeto de recriação da página inicial do instagram, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
 
-## Informação do Projeto
+## 📋 Informação do Projeto
 O projeto original reúne uma tela simplificada, quando o usúario deseja retornar a conexão com username anterior no site.
 
 - Seção Home: Reconecta-se com username
@@ -15,7 +15,7 @@ O projeto original reúne uma tela simplificada, quando o usúario deseja retorn
 <br/>
 <br/>
 
-<b> Implementação Futura </b>
+<b> 💡 Implementação Futura </b>
 - [x] Seção Conecte-se
 - [x] Seção Cadastre-se
 - [x] Seção Esqueceu a Senha 
@@ -24,7 +24,7 @@ O projeto original reúne uma tela simplificada, quando o usúario deseja retorn
 
 <br/>
 
-### Layout
+### 💻 Layout
 <p align="center">
   <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Home.PNG"/>
 </p> 
@@ -38,6 +38,6 @@ O projeto original reúne uma tela simplificada, quando o usúario deseja retorn
   <img src="https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/Cadastre-se.PNG"/>
 </p> 
 
-## Ferramentas/Tecnologias Utilizadas:
+## 📦 Ferramentas/Tecnologias Utilizadas:
 - VsCode;
 - HTML5 e CSS3 / HTML e CSS.
