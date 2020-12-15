@@ -13,7 +13,6 @@ O projeto original reúne uma tela simplificada, quando o usúario deseja retorn
 - Seção Home: Reconecta-se com username
 
 <br/>
-<br/>
 
 <b> 💡 Implementação Futura </b>
 - [x] Seção Conecte-se
