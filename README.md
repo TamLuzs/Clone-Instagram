@@ -5,10 +5,10 @@
 </p> 
 
 ## Introdução
-Esse repositório é referente as implementações de melhorias que fiz sobre o projeto de recriação da página inicial do instagram, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
+Esse repositório é referente as melhorias que fiz sobre o projeto de recriação da página inicial do instagram, abordado no bootcamp - HTML Web Developer da <a href="https://web.digitalinnovation.one">Digital Innovation One</a>.
 
 ## Informação do Projeto
-O projeto original reúne uma tela simplificada quando o usúario deseja retornar conexão com username anterior no site.
+O projeto original reúne uma tela simplificada, quando o usúario deseja retornar a conexão com username anterior no site.
 
 - Seção Home: Reconecta-se com username
 
@@ -16,6 +16,8 @@ O projeto original reúne uma tela simplificada quando o usúario deseja retorna
 - [x] Seção Conecte-se
 - [x] Seção Cadastre-se
 - [x] Seção Esqueceu a Senha 
+
+<i> Todas as telas/seções são responsivo </i>
 
 ### Layout
 <p align="center">
